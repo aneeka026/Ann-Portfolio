@@ -15,7 +15,7 @@ function Skills() {
 
       <div className={styles.stats}>
         <div className={styles.statCard}>
-          <h3>5+</h3>
+          <h3>3+</h3>
           <p>Months Internship</p>
         </div>
         <div className={styles.statCard}>
