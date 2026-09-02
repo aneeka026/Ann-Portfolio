@@ -1,6 +1,6 @@
 # Aneeka's Portfolio
 
 ## Live link : https://annsportfolio.netlify.app/
+<img width="1358" height="644" alt="image" src="https://github.com/user-attachments/assets/64643ec9-dec4-44e5-b8ca-6c64a066f85f" />
 
-<img width="1434" height="775" alt="a" src="https://github.com/user-attachments/assets/d269a9e0-a111-4d17-9b58-484d66b86958" />
-<img width="419" height="681" alt="a1" src="https://github.com/user-attachments/assets/571c270b-b85b-4c9a-afad-bde25bda53bd" />
+<img width="311" height="533" alt="image" src="https://github.com/user-attachments/assets/27a2b0b5-f915-433f-afa1-6de037946f9a" />
